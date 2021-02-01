@@ -3,6 +3,3 @@ third line
 some line
 another line
 just chekcing new lines
-
-
-added from new-branch changes 1
