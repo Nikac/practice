@@ -1,2 +1,3 @@
 NEW-BRANCH: some new lines are now writed
 adding new line here
+NEW-BRANCH: some new lines are now writed 
